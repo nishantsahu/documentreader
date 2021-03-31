@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "266120380099",
+    "project_id": "document-reader-6eda0",
+    "storage_bucket": "document-reader-6eda0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:266120380099:android:e1dfee380ed291b872ac76",
+        "android_client_info": {
+          "package_name": "com.kwardosoft.documentreader"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "266120380099-h34cra2ece1ru0egjg6d9u4s9hfh5d61.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwf0skR3jJ4SJ_IZ4jNPVVRtvAQYsbg3U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "266120380099-h34cra2ece1ru0egjg6d9u4s9hfh5d61.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
